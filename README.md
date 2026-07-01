@@ -1,4 +1,4 @@
-# Our Community — School Project Website
+# Our Community
 
 ## 👥 Group Members
 
